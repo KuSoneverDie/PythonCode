@@ -1,0 +1,1 @@
+print("Kuso Word!")
